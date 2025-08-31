@@ -165,7 +165,7 @@ Unsupervised learning algorithms for pattern discovery and data analysis.
 - `clustering_algorithms.py` - Complete clustering framework
 - `README.md` - Unsupervised learning guide
 
-## 🛠️ Additional Resources
+##  Additional Resources
 
 ### Datasets
 **Directory: `datasets/`**
@@ -185,7 +185,7 @@ Unsupervised learning algorithms for pattern discovery and data analysis.
 - Algorithm comparison frameworks
 - Scalability testing suites
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.6 or higher
@@ -269,7 +269,7 @@ kmeans.fit(X)
 cluster_labels = kmeans.labels
 ```
 
-## 📊 Performance Characteristics
+##  Performance Characteristics
 
 ### Scalability Analysis
 
@@ -290,7 +290,7 @@ cluster_labels = kmeans.labels
 - **Most Memory Efficient**: Linear Regression, Perceptron
 - **Best for Large Data**: K-Means, Stochastic algorithms
 
-## 🎯 Applications and Use Cases
+## Applications and Use Cases
 
 ### Real-World Applications
 
@@ -485,7 +485,7 @@ We welcome contributions! Please see our contribution guidelines:
 
 ---
 
-## 🎉 Final Notes
+##  Final Notes
 
 This AI Algorithms Collection represents a comprehensive journey through fundamental artificial intelligence and machine learning concepts. Each implementation prioritizes:
 
@@ -496,8 +496,8 @@ This AI Algorithms Collection represents a comprehensive journey through fundame
 
 Whether you're a student learning AI concepts, a researcher developing new algorithms, or a practitioner implementing solutions, this collection provides a solid foundation for your AI journey.
 
-**Happy coding and AI exploring!** 🚀🤖
+**Happy coding and AI exploring!** 
 
 ---
 
-*Last Updated: 2024 | Repository: [https://github.com/aksaN000/AI](https://github.com/aksaN000/AI) | License: MIT*
+*Last Updated: 2025 | Repository: [https://github.com/aksaN000/AI](https://github.com/aksaN000/AI) | License: MIT*
